@@ -4,21 +4,21 @@ A simple Instagram clone
 
 ## Home page
 
-![image](/client/public/images/home.png)
-![image](/client/public/images/home1.png)
+![image](/public/images/home.png)
+![image](/public/images/home1.png)
 
 ## Messenger Page
 
-![image](/client/public/images/direct1.png)
-![image](/client/public/images/direct2.png)
+![image](/public/images/direct1.png)
+![image](/public/images/direct2.png)
 
 ## Signup Page
 
-![image](/client/public/images/signup.png)
+![image](/public/images/signup.png)
 
 ## Signin page
 
-![image](/client/public/images/signin.png)
+![image](/public/images/signin.png)
 
 ## Installation
 
